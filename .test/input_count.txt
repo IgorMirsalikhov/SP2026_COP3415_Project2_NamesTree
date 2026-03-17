@@ -1,0 +1,30 @@
+add_name vehicle
+add_name tech
+add_name country
+add_name sport
+add_item vehicle car 50
+add_item vehicle motorcycle 15
+add_item vehicle airplane 5
+add_item vehicle bicycle 30
+add_item vehicle truck 25
+add_item vehicle boat 10
+add_item tech laptop 40
+add_item tech smartphone 100
+add_item tech tablet 35
+add_item tech smartwatch 20
+add_item tech server 8
+add_item tech router 60
+add_item country usa 300
+add_item country canada 50
+add_item country brazil 200
+add_item country germany 80
+add_item country japan 120
+add_item country india 500
+add_item sport soccer 200
+add_item sport basketball 150
+add_item sport tennis 60
+add_item sport baseball 90
+add_item sport hockey 70
+add_item sport boxing 40
+count sport
+count_all

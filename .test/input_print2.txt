@@ -1,0 +1,56 @@
+add_name food
+add_name city
+add_name job
+add_name color
+add_name instrument
+add_item food pizza 100
+add_item food burger 80
+add_item food sushi 60
+add_item food pizza 120
+add_item food pasta 70
+add_item food burger 90
+add_item food salad 40
+add_item food sushi 60
+add_item food steak 110
+add_item food pizza 100
+add_item city paris 200
+add_item city london 180
+add_item city tokyo 300
+add_item city paris 220
+add_item city berlin 150
+add_item city madrid 140
+add_item city london 180
+add_item city rome 130
+add_item city tokyo 310
+add_item city paris 200
+add_item job engineer 90
+add_item job doctor 120
+add_item job teacher 70
+add_item job engineer 95
+add_item job lawyer 110
+add_item job doctor 130
+add_item job artist 60
+add_item job teacher 70
+add_item job engineer 90
+add_item job chef 80
+add_item color red 50
+add_item color blue 60
+add_item color green 55
+add_item color red 50
+add_item color yellow 45
+add_item color blue 65
+add_item color purple 35
+add_item color green 55
+add_item color red 70
+add_item color orange 40
+add_item instrument guitar 100
+add_item instrument piano 120
+add_item instrument violin 90
+add_item instrument guitar 100
+add_item instrument drums 80
+add_item instrument piano 130
+add_item instrument flute 60
+add_item instrument violin 90
+add_item instrument guitar 110
+add_item instrument saxophone 75
+print

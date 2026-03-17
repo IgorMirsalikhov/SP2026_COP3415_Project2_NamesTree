@@ -1,0 +1,33 @@
+add_name fish
+add_name animal
+add_name bird
+add_name fruit
+add_item animal cat 32
+add_item fish goldfish 20
+add_item animal dog 40
+add_item bird blackbird 10
+add_item animal bear 10
+add_item fruit mango 100
+add_item animal alligator 50
+add_item animal tiger 4
+add_item animal lion 2
+add_item fish swordfish 10
+add_item animal deer 5
+add_item animal cow 15
+add_item fish garfish 5
+add_item fish catfish 55
+add_item fish salmon 40
+add_item bird crow 21
+add_item bird dove 10
+add_item bird flamingo 15
+add_item fruit apple 50
+add_item fruit banana 50
+add_item fruit nectarine 10
+add_item fruit coconut 10
+add_item fruit peach 40
+add_item fruit apricot 30
+add_item fruit avocado 20
+add_item fruit cherry 100
+add_item fruit cranberry 100
+add_item animal horse 6
+print

@@ -1,0 +1,37 @@
+add_name food
+add_name animal
+add_name tech
+add_name vehicle
+add_name job
+add_item food chicken 80
+add_item animal chicken 30
+add_item food apple 50
+add_item tech apple 200
+add_item animal python 40
+add_item tech python 150
+add_item vehicle mustang 70
+add_item animal mustang 25
+add_item tech amazon 300
+add_item animal amazon 10
+add_item job driver 60
+add_item vehicle driver 20
+add_item food bass 45
+add_item animal bass 35
+add_item tech java 180
+add_item food java 20
+add_item vehicle jaguar 90
+add_item animal jaguar 15
+add_item job cook 50
+add_item food cook 10
+add_item tech shell 75
+add_item animal shell 5
+add_item vehicle beetle 40
+add_item animal beetle 25
+add_item food turkey 85
+add_item animal turkey 30
+add_item tech mouse 95
+add_item animal mouse 20
+search_item mouse
+search_item turkey
+search_item bass
+search_item apple
