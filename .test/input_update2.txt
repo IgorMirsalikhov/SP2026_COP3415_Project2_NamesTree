@@ -31,7 +31,6 @@ add_item food turkey 85
 add_item animal turkey 30
 add_item tech mouse 95
 add_item animal mouse 20
-change_name test technology
 update_item food1 chicken 1000
 update_item food chicken1 1000
 print
